@@ -1,0 +1,9 @@
+html {
+    background: #bcbcbc;
+}
+
+input {
+    background: rgba(33, 127, 153, 0.5); 
+    border-radius: 5px;
+    color: #FFF; 
+}
